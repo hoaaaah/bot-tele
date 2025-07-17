@@ -7,9 +7,9 @@ const setupAutoNoti = require('./functions/autonoti');
 const sendUptime = require('./functions/uptime');
 
 // Thêm trực tiếp thông tin vào mã nguồn
-const token = "7986094210:AAE4JJVxjCaYWycS7-IGXl9DeME8SvDiG44";
-const adminId = "5878565797";
-const groupId = "-1002353699688";
+const token = "7419228820:AAEIVjNxCYpmTzhN4uP_xz_XrMaQk-guGak";
+const adminId = "6476532822";
+const groupId = "-1002759861322";
 
 // Khởi tạo bot với token
 const bot = new TelegramBot(token, { polling: true });
