@@ -14,7 +14,7 @@ module.exports = (bot) => {
     try {
       // 📥 Tải file từ Telegram
       const fileInfo = await bot.getFile(fileId);
-      const fileUrl = `https://api.telegram.org/file/bot8161840769:AAFb1QNttDcjn_P3ZD12IT_Tto27jdsYRG4/${fileInfo.file_path}`;
+      const fileUrl = `https://api.telegram.org/file/bot7419228820:AAEIVjNxCYpmTzhN4uP_xz_XrMaQk-guGak/${fileInfo.file_path}`;
 
       const tempFilePath = `temp_${fileName}`;
       const writer = fs.createWriteStream(tempFilePath);
