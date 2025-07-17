@@ -1,7 +1,7 @@
 /**
  * @command /uploadcatbox
  * @category Tiện ích
- * @author tnt
+ * @author khanhh huyen
  * @date 2025-03-01
  * @usage /uploadcatbox [user]
  * @description Tải video từ id tiktok và tự up lên catbox.
