@@ -1,7 +1,7 @@
 /**
  * @command /encode
  * @category Tiện ích
- * @author tnt
+ * @author Khanhh Huyenn
  * @date 2025-03-01
  * @usage /encode
  * @description Mã hóa code.
