@@ -7,9 +7,9 @@ const setupAutoNoti = require('./functions/autonoti');
 const sendUptime = require('./functions/uptime');
 
 // Thêm trực tiếp thông tin vào mã nguồn
-const token = "8161840769:AAFb1QNttDcjn_P3ZD12IT_Tto27jdsYRG4";
-const adminId = "6602753350";
-const groupId = "-1002394487171";
+const token = "7986094210:AAE4JJVxjCaYWycS7-IGXl9DeME8SvDiG44";
+const adminId = "5878565797";
+const groupId = "-1002353699688";
 
 // Khởi tạo bot với token
 const bot = new TelegramBot(token, { polling: true });
@@ -24,7 +24,7 @@ fs.readdirSync(mdlPath).forEach((file) => {
 
 // Lắng nghe lệnh /start
 bot.onText(/\/start/, (msg) => {
-    sendAutoDeleteMessage(bot, msg.chat.id, 'Xin chào! Tôi là bot của TNT.');
+    sendAutoDeleteMessage(bot, msg.chat.id, 'Xin chào! Tôi là bot của Huyenn Khanh.');
 });
 
 bot.onText(/\/uptime/, (msg) => {
