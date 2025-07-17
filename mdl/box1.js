@@ -1,7 +1,7 @@
 /**
  * @command /box
  * @category Tiện ích
- * @author tnt
+ * @author Huyenn khanh
  * @date 2025-03-01
  * @usage /box
  * @description Xem thông tin box.
