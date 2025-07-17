@@ -1,7 +1,7 @@
 /**
  * @command /
  * @category Tiện ích
- * @author tnt
+ * @author Khanhh Huyenn
  * @date 2025-03-01
  * @usage /
  * @description Kiểm tra bot.
