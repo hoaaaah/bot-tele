@@ -1,7 +1,7 @@
 /**
  * @command /downhoyolab
  * @category Media
- * @author tnt
+ * @author Khanhh Huyenn
  * @date 2025-03-01
  * @usage /downhoyolab
  * @description Tự động tải xuống hoyolab.
