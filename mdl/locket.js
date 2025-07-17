@@ -1,7 +1,7 @@
 /**
  * @command /locket
  * @category Tools
- * @author tnt
+ * @author khanhh huyenn
  * @usage
  * /locket spam [url] [số luồng] [tin nhắn]
  * /locket delete
