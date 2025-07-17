@@ -1,7 +1,7 @@
 /**
  * @command /restrictsave
  * @category Tiện ích
- * @author tnt
+ * @author Khanhh Huyenn
  * @date 2025-03-01
  * @usage /restrictsave(on|off), promote, demote
  * @description Cấm gửi ảnh, video| cấp quyền admin, gỡ quyền admin.
