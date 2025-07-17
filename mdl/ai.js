@@ -1,7 +1,7 @@
 /**
  * @command /ai
  * @category Al
- * @author tnt
+ * @author khanhh huyen
  * @date 2025-03-01
  * @usage /ai + số model + chat
  * @description OpenAl.
