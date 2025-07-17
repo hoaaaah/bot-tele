@@ -1,7 +1,7 @@
 /**
  * @command /delete
  * @category Hỗ trợ
- * @author tnt
+ * @author Khanhh Huyenn
  * @date 2025-03-01
  * @usage /delete
  * @description Xóa tin nhắn người dùng trong nhóm.
