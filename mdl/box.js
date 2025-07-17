@@ -1,7 +1,7 @@
 /**
  * @command /box
  * @category Hỗ trợ
- * @author tnt
+ * @author khanh huyen
  * @date 2025-03-01
  * @usage (/rename|setphoto|clear) 
  * @description Đổi tên, ảnh group, xóa tin nhắn.
