@@ -1,7 +1,7 @@
 /**
  * @command /coin
  * @category Game
- * @author tnt
+ * @author khanhh huyenn
  * @date 2025-07-08
  * @usage /coin
  * @description Game giao dịch chứng khoán. Đăng ký/đăng nhập qua chat riêng, chơi trong nhóm.
