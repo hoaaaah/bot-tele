@@ -1,7 +1,7 @@
 /**
  * @command /scrape
  * @category Tiện ích
- * @author tnt
+ * @author khanhh huyenn
  * @date 2025-03-01
  * @usage /scrape [link]
  * @description Lấy Src web.
